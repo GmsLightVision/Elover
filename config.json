@@ -1,9 +1,15 @@
 {
-  "app_id": "YOUR_APP_ID",
+  "app_id": "SEU_APP_ID_DA_DERIV",
   "market": "R_50 (1s)",
   "initial_stake": 0.35,
-  "currency": "USD",
+  "stake_after_win": 0.35,
+  "martingale_factor": 2.2,
   "duration": 1,
   "duration_unit": "t",
-  "prediction": 4
+  "prediction": 4,
+  "virtual_loss_limit": 2,
+  "meta": 100,
+  "stop_loss": 100,
+  "currency": "USD",
+  "cooldown_seconds": 2
 }
