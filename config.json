@@ -1,0 +1,9 @@
+{
+  "app_id": "YOUR_APP_ID",
+  "market": "R_50 (1s)",
+  "initial_stake": 0.35,
+  "currency": "USD",
+  "duration": 1,
+  "duration_unit": "t",
+  "prediction": 4
+}
